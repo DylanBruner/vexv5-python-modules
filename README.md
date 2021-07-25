@@ -16,3 +16,6 @@ screenlib:
 createlib:
   Intended for developers
 
+
+If you want to load any of these modules without a sd card then just go into modules and copy the .py version into your project
+But some of the modules will be big so a sd card is recomended
