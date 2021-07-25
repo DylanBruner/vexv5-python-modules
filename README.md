@@ -17,5 +17,18 @@ createlib:
   Intended for developers
 
 
-If you want to load any of these modules without a sd card then just go into modules and copy the .py version into your project
-But some of the modules will be big so a sd card is recomended
+How to install it
+
+On a sd card:
+  Clone the repo and copy over the following folders/files:
+    modules
+    base64.py
+    module_loader.py
+   
+   Plugin the sd card and thats it
+
+
+Without a sd card:
+  If you want to load any of these modules without a sd card then just go into modules and copy the .py version into your project
+  But some of the modules will be big so a sd card is recomended
+
